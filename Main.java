@@ -1,11 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * main class
- * @author avinash.kumar_metacu
- *
- */
+
 public class Main {
 
 	/**
@@ -56,7 +52,7 @@ public class Main {
 		}
 		System.out.println("----------------");
 
-		obj = s1.sortShapeBy("ärea");
+		obj = s1.sortShapeBy("Ã¤rea");
 		for(int i=0;i<obj.size();i++){
 			System.out.println(obj.get(i).getShapeType());
 		}
