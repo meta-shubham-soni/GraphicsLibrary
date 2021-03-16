@@ -1,12 +1,7 @@
   
 import java.util.*;  
 
-/**
- * This class implements comparator to sort objects based on area.
- * 
- * @author avinash.kumar_metacu
- *
- */
+
 public class AreaComparator implements Comparator<Shape>{
 
 	@Override
