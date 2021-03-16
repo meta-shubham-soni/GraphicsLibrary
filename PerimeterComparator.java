@@ -1,11 +1,5 @@
 import java.util.*;
 
-/**
- * This class implements comparator to sort objects based on perimeter.
- * 
- * @author avinash.kumar_metacu
- *
- */
 public class PerimeterComparator implements Comparator<Shape> {
 
 	@Override
